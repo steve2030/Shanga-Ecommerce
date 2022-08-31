@@ -48,9 +48,7 @@ To install and run this project, you need:
 ## **Reference**
 
 ## **License**
-MIT License Copyright (c) 2022 Kevin Kipkoech
 
-MIT License Copyright (c) 2022 Sharon Nyamongo
 
 MIT License Copyright (c) 2022 Stephen Munyao
 ## **Author Contact Info**
